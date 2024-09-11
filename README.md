@@ -30,19 +30,18 @@ Siga as etapas abaixo para configurar o projeto localmente:
    ```bash
    git clone https://github.com/JhoeHashimoto/ListaTarefaReactNative.git
    cd nome-do-repositorio
-Instale as dependências
 
-bash
+2. **Instale as dependências**
 Copiar código
-npm install . --force
-Execute o aplicativo
-
-Se estiver usando o Expo, você pode rodar:
-
-bash
-Copiar código
-npm start
+   ```bash
+   npm install . --force
+   
+3. **Execute o aplicativo**
 Para rodar no React Native CLI, use:
+
+   ```bash
+   npm start
+
 
 📱 Uso
 Após iniciar o aplicativo, você verá uma lista vazia de tarefas.
@@ -58,4 +57,4 @@ Figura 1: Tela principal com lista de tarefas.
 📧 Contato
 Para mais informações ou dúvidas, entre em contato através do email: jhoeyoshiohashimoto@gmail.com
 
-Feito com ❤️ por Jhoe Hashimoto
+Feito por Jhoe Hashimoto
